@@ -1,0 +1,12 @@
+*{
+    background-color: aqua;
+    font-size: 35px;
+    font-feature-settings: "aalt";
+    text-align: center;
+    text-decoration-line: none;
+}
+
+h1{
+    font-size: 100px;
+    color: brown;
+}
