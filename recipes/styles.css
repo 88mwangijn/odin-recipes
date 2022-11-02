@@ -1,0 +1,21 @@
+*{
+    background-color: aqua;
+    font-size: 35px;
+    font-feature-settings: "aalt";
+    text-align: center;
+    text-decoration-line: none;
+    padding: 20px;
+    margin: 15px;
+}
+
+h1{
+    font-size: 100px;
+    color: brown;
+}
+
+div, p{
+    background-color: azure;
+    color: red;
+    text-align: left;
+    font-size: 25px;
+}
